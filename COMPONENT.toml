@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-ydata-profiling"
+version = "0.1.0"
+category = "eda"
+description = "ydata-profiling automated dataset profiling for SigmaOS"
